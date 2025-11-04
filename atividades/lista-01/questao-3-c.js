@@ -1,0 +1,10 @@
+/*
+ * 3.c) Função fatorial (recursiva)
+ */
+function fatorial(n) {
+  if (n === 0 || n === 1) return 1;
+  return n * fatorial(n - 1);
+}
+
+console.log("\nc) Fatorial:");
+console.log(fatorial(5)); // 120
