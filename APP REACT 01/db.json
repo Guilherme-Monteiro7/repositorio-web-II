@@ -1,0 +1,34 @@
+{
+  "veiculos": [
+    {
+      "id": "1",
+      "titulo": "Honda Civic LX",
+      "descricao": "Carro muito conservado, único dono, revisões em dia.",
+      "preco": 85000,
+      "ano": 2020,
+      "km": 45000,
+      "imagem": "https://img.olx.com.br/images/87/874390642998877.jpg",
+      "contato": "(11) 99999-9999"
+    },
+    {
+      "id": "2",
+      "titulo": "Toyota Corolla XEi",
+      "descricao": "Sedan confortável, pneus novos.",
+      "preco": 92000,
+      "ano": 2019,
+      "km": 60000,
+      "imagem": "https://img.olx.com.br/images/56/563404018342398.jpg",
+      "contato": "(21) 98888-8888"
+    },
+    {
+      "id": "0cf7",
+      "titulo": "Honda Civic",
+      "descricao": "",
+      "preco": "266000",
+      "ano": "2025",
+      "km": "50000",
+      "imagem": "https://cdn.prod.website-files.com/63bdbbd2c764e88f730a8673/659a12946d64eeae5a013063_quanto-custa-manter-um-honda-civic.webp",
+      "contato": "88982342034"
+    }
+  ]
+}
